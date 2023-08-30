@@ -16,11 +16,11 @@ btn.onclick = function () {
         ul.appendChild(div);
 
         var anchor1 = document.createElement("a");
-        anchor1.innerHTML = `<img src="icons/edit.png" alt="" id="edit">`;
+        anchor1.innerHTML = `<img src="edit.png" alt="" id="edit">`;
         div.appendChild(anchor1);
 
         var anchor2 = document.createElement("a");
-        anchor2.innerHTML = `<img src="icons/trash.png" alt="" id="remove">`;
+        anchor2.innerHTML = `<img src='trash.png" alt="" id="remove">`;
         div.appendChild(anchor2);
 
         anchor1.addEventListener('click', function () {
