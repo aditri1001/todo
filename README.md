@@ -5,19 +5,13 @@ Welcome to the **To-Do List Application**! This project is a simple, yet effecti
 ## Features
 
 - **Add Tasks**: Easily add new tasks to your to-do list.
-- **Mark as Completed**: Mark tasks as completed when they're done.
 - **Delete Tasks**: Remove tasks that are no longer needed.
-- **Responsive Design**: Use the app seamlessly on both desktop and mobile devices.
+- **Edit Tasks**: Quickly edit existing tasks to update their details.
 
 ## Demo
 
 Check out the live demo of the application here:
 [To-Do List App](https://666fa8f70c30bb90a9236930--stellar-crisp-4e4550.netlify.app/)
-
-## Screenshots
-
-![Screenshot 1](https://via.placeholder.com/800x400?text=Screenshot+1)
-![Screenshot 2](https://via.placeholder.com/800x400?text=Screenshot+2)
 
 ## Installation
 
@@ -25,4 +19,4 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/aditri1001/todo.git
